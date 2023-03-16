@@ -1,0 +1,272 @@
+[
+	{
+		"campaign_name" : null,
+		"stage" : C - Proposal,
+		"num_opportunities" : 1
+	},
+	{
+		"campaign_name" : Business Insight Engine (BIE),
+		"stage" : B - Decision,
+		"num_opportunities" : 1
+	},
+	{
+		"campaign_name" : Business Insight Engine (BIE),
+		"stage" : C - Proposal,
+		"num_opportunities" : 2
+	},
+	{
+		"campaign_name" : Business Insight Engine (BIE),
+		"stage" : E - Idea,
+		"num_opportunities" : 1
+	},
+	{
+		"campaign_name" : Business Insight Engine (BIE),
+		"stage" : Won,
+		"num_opportunities" : 15
+	},
+	{
+		"campaign_name" : Cloud Acceleration,
+		"stage" : null,
+		"num_opportunities" : 1
+	},
+	{
+		"campaign_name" : Cloud Acceleration,
+		"stage" : C - Proposal,
+		"num_opportunities" : 3
+	},
+	{
+		"campaign_name" : Cloud Acceleration,
+		"stage" : D - Value Prop,
+		"num_opportunities" : 1
+	},
+	{
+		"campaign_name" : Cloud Acceleration,
+		"stage" : Won,
+		"num_opportunities" : 2
+	},
+	{
+		"campaign_name" : Cost Management Analytics,
+		"stage" : C - Proposal,
+		"num_opportunities" : 2
+	},
+	{
+		"campaign_name" : Cost Management Analytics,
+		"stage" : E - Idea,
+		"num_opportunities" : 3
+	},
+	{
+		"campaign_name" : Cost Management Analytics,
+		"stage" : Won,
+		"num_opportunities" : 1
+	},
+	{
+		"campaign_name" : Cyber Resilience,
+		"stage" : null,
+		"num_opportunities" : 0
+	},
+	{
+		"campaign_name" : Digital Experience Platform & Solutions ,
+		"stage" : A - T&C,
+		"num_opportunities" : 1
+	},
+	{
+		"campaign_name" : Digital Experience Platform & Solutions ,
+		"stage" : B - Decision,
+		"num_opportunities" : 3
+	},
+	{
+		"campaign_name" : Digital Experience Platform & Solutions ,
+		"stage" : C - Proposal,
+		"num_opportunities" : 4
+	},
+	{
+		"campaign_name" : Digital Experience Platform & Solutions ,
+		"stage" : D - Value Prop,
+		"num_opportunities" : 2
+	},
+	{
+		"campaign_name" : Digital Experience Platform & Solutions ,
+		"stage" : E - Idea,
+		"num_opportunities" : 4
+	},
+	{
+		"campaign_name" : Digital Experience Platform & Solutions ,
+		"stage" : Won,
+		"num_opportunities" : 10
+	},
+	{
+		"campaign_name" : IDS and Core System Accelerator ,
+		"stage" : Won,
+		"num_opportunities" : 1
+	},
+	{
+		"campaign_name" : Intelligent Testing,
+		"stage" : null,
+		"num_opportunities" : 1
+	},
+	{
+		"campaign_name" : Intelligent Testing,
+		"stage" : C - Proposal,
+		"num_opportunities" : 1
+	},
+	{
+		"campaign_name" : Intelligent Testing,
+		"stage" : Won,
+		"num_opportunities" : 3
+	},
+	{
+		"campaign_name" : Large Scale Network Engineering,
+		"stage" : Won,
+		"num_opportunities" : 3
+	},
+	{
+		"campaign_name" : MS Dynamics Modernization,
+		"stage" : B - Decision,
+		"num_opportunities" : 1
+	},
+	{
+		"campaign_name" : MS Dynamics Modernization,
+		"stage" : C - Proposal,
+		"num_opportunities" : 4
+	},
+	{
+		"campaign_name" : MS Dynamics Modernization,
+		"stage" : D - Value Prop,
+		"num_opportunities" : 1
+	},
+	{
+		"campaign_name" : MS Dynamics Modernization,
+		"stage" : E - Idea,
+		"num_opportunities" : 2
+	},
+	{
+		"campaign_name" : MS Dynamics Modernization,
+		"stage" : Won,
+		"num_opportunities" : 5
+	},
+	{
+		"campaign_name" : Not Identified,
+		"stage" : null,
+		"num_opportunities" : 0
+	},
+	{
+		"campaign_name" : Oracle Modernization,
+		"stage" : null,
+		"num_opportunities" : 0
+	},
+	{
+		"campaign_name" : Oracle Modernization,
+		"stage" : A - T&C,
+		"num_opportunities" : 1
+	},
+	{
+		"campaign_name" : Oracle Modernization,
+		"stage" : B - Decision,
+		"num_opportunities" : 1
+	},
+	{
+		"campaign_name" : Oracle Modernization,
+		"stage" : C - Proposal,
+		"num_opportunities" : 2
+	},
+	{
+		"campaign_name" : Oracle Modernization,
+		"stage" : D - Value Prop,
+		"num_opportunities" : 2
+	},
+	{
+		"campaign_name" : Oracle Modernization,
+		"stage" : E - Idea,
+		"num_opportunities" : 2
+	},
+	{
+		"campaign_name" : Oracle Modernization,
+		"stage" : Won,
+		"num_opportunities" : 43
+	},
+	{
+		"campaign_name" : Other,
+		"stage" : null,
+		"num_opportunities" : 4
+	},
+	{
+		"campaign_name" : Other,
+		"stage" : C - Proposal,
+		"num_opportunities" : 10
+	},
+	{
+		"campaign_name" : Other,
+		"stage" : D - Value Prop,
+		"num_opportunities" : 7
+	},
+	{
+		"campaign_name" : Other,
+		"stage" : E - Idea,
+		"num_opportunities" : 3
+	},
+	{
+		"campaign_name" : Other,
+		"stage" : Won,
+		"num_opportunities" : 204
+	},
+	{
+		"campaign_name" : Product Life Cycle Management (PLM) Modernization,
+		"stage" : C - Proposal,
+		"num_opportunities" : 2
+	},
+	{
+		"campaign_name" : Product Life Cycle Management (PLM) Modernization,
+		"stage" : D - Value Prop,
+		"num_opportunities" : 3
+	},
+	{
+		"campaign_name" : Product Life Cycle Management (PLM) Modernization,
+		"stage" : E - Idea,
+		"num_opportunities" : 2
+	},
+	{
+		"campaign_name" : Product Life Cycle Management (PLM) Modernization,
+		"stage" : Won,
+		"num_opportunities" : 3
+	},
+	{
+		"campaign_name" : SAP Digital Core,
+		"stage" : null,
+		"num_opportunities" : 0
+	},
+	{
+		"campaign_name" : SAP Digital Core,
+		"stage" : B - Decision,
+		"num_opportunities" : 1
+	},
+	{
+		"campaign_name" : SAP Digital Core,
+		"stage" : C - Proposal,
+		"num_opportunities" : 3
+	},
+	{
+		"campaign_name" : SAP Digital Core,
+		"stage" : D - Value Prop,
+		"num_opportunities" : 1
+	},
+	{
+		"campaign_name" : SAP Digital Core,
+		"stage" : Won,
+		"num_opportunities" : 12
+	},
+	{
+		"campaign_name" : Vertical - Lifesciences,
+		"stage" : B - Decision,
+		"num_opportunities" : 1
+	},
+	{
+		"campaign_name" : Vertical - Lifesciences,
+		"stage" : E - Idea,
+		"num_opportunities" : 2
+	},
+	{
+		"campaign_name" : Vertical - Provider,
+		"stage" : E - Idea,
+		"num_opportunities" : 5
+	}
+]
